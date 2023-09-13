@@ -22,7 +22,7 @@ steps:
     resourceGroupName: 'ARMPipeline-rg'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/marcelkamp-macaw/LogicAppProject/main/create_web_app/azuredeploy.json?token=GHSAT0AAAAAACHPLW7L3CUCYHNWHFP3BKLSZIBMGMQ'
+    csmFileLink: 'https://raw.githubusercontent.com/marcelkamp-macaw/LogicAppProject/main/create_web_app/azuredeploy.json'
     overrideParameters: '-projectName myarmpipeline'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
