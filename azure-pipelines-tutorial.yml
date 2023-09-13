@@ -27,4 +27,3 @@ steps:
         overrideParameters: '-projectName myarmpipeline'
         deploymentMode: 'Incremental'
         deploymentName: 'DeployPipelineTemplate'
-  
