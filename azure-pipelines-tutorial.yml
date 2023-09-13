@@ -27,4 +27,4 @@ steps:
         overrideParameters: '-projectName myarmpipeline'
         deploymentMode: 'Incremental'
         deploymentName: 'DeployPipelineTemplate'
-  displayName: 'Run a multi-line script'
+  
