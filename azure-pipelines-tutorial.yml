@@ -23,6 +23,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/marcelkamp-macaw/LogicAppProject/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName logicapp'
+    overrideParameters: '-projectName mkla202309'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
